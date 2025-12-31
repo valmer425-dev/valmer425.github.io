@@ -28,5 +28,5 @@ https://github.com/valeriamercadojaramillo/megaline-prepaid-plan-analysis
 
 ## 📬 Contacto
 - LinkedIn: linkedin.com/in/vmercadoj
-- GitHub: https://github.com/valeriamercadojaramillo
+- GitHub: https://github.com/valmer425-dev
 - Email: valeriamercadojaramillo@gmail.com
