@@ -1,28 +1,39 @@
 # Valeria Mercado Jaramillo
 
-### Junior Data Analyst | Business-Oriented Data Analysis
+### Junior Data Analyst | Business-Focused Data Analysis | Python · SQL · Data Visualization
 
-Soy analista de datos en formación con enfoque en análisis exploratorio, estadístico y generación de insights para la toma de decisiones de negocio.  
-Me interesa contribuir en equipos donde los datos se utilicen para mejorar productos, procesos y estrategias.
+Analista de datos en formación con enfoque en análisis exploratorio, estadístico y visualización de datos para apoyar la toma de decisiones de negocio.
 
----
+Experiencia práctica desarrollando proyectos reales con Python, pandas, matplotlib y Jupyter Notebook, transformando datos en insights claros y accionables.
 
-## 📊 Proyectos
-
-### Megaline – Análisis de Tarifas Prepago
-Análisis exploratorio y estadístico para identificar el plan prepago más rentable y apoyar decisiones comerciales y de marketing.
-
-🔗 Repositorio:  
-https://github.com/valeriamercadojaramillo/megaline-prepaid-plan-analysis
 
 ---
 
-## 🛠 Habilidades
-- Python (Pandas, NumPy)
+## 📊 Proyecto: Análisis de planes telefónicos – Megaline
+
+**Objetivo:**  
+Analizar el comportamiento de los usuarios para identificar qué plan genera mayores ingresos.
+
+**Herramientas:**  
+Python, pandas, matplotlib, Jupyter Notebook
+
+**Análisis realizado:**  
+- Limpieza y preparación de datos  
+- Análisis exploratorio  
+- Comparación de ingresos entre planes  
+
+**Resultado / Insight:**  
+Se identificó el plan con mayor rentabilidad y patrones de uso que permiten mejorar la estrategia comercial.
+---
+
+## 🛠️ Habilidades
+
+- Python (pandas, numpy, matplotlib)
 - Análisis Exploratorio de Datos (EDA)
-- Estadística y Pruebas de Hipótesis
-- Visualización de Datos
-- Git & GitHub
+- Estadística descriptiva
+- Visualización de datos
+- Jupyter Notebook
+- Git y GitHub
 
 ---
 
